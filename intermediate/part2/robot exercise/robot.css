@@ -1,0 +1,48 @@
+img {
+  width: 50px;
+}
+#face {
+  width: 400px;
+}
+
+#eyes2 {
+  position: absolute;
+  top: 12em;
+  left: 8em;
+  width: 20%;
+
+}
+
+#mouth2{
+  position: absolute;
+  top: 22em;
+  left: 8em;
+  width: 100px;
+}
+
+#nose2{
+  position: relative;
+  top: -9em;
+  right: 25em;
+}
+
+#ears1{
+  position: relative;
+  top: -24em;
+  right: 0.5em;
+  width: 25em;
+}
+
+#hat{
+  position: absolute;
+  bottom: 30em;
+  width: 17em;
+  left: 5em;
+}
+#bow-tie{
+  width: 8em;
+  position: relative;
+  bottom: 16em;
+  right: 28em;
+  z-index: -1;
+}
